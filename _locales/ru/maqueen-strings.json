@@ -29,6 +29,8 @@
   "maqueen.writeLED|block": "лампочка|%led|%ledswitch",
   "maqueenIR.initIR|block": "подключить ИК на %pin",
   "maqueenIR.onPressEvent|block": "кнопка|%btn|нажата",
-  "maqueenIR|block": "MaqueenИК",
-  "maqueen|block": "Maqueen"
+  "maqueenIR|block": "Maqueen ИК",
+  "maqueen|block": "Maqueen",
+  "{id:category}Maqueen": "Maqueen",
+  "{id:category}MaqueenIR": "Maqueen ИК"
 }

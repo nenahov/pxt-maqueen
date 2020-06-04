@@ -1,14 +1,15 @@
 {
-  "maqueen.IR_read": "Значение с инфрокрасного сенсора.",
+  "maqueen.IR_read": "Значение с ИК датчика.",
   "maqueen.IR_read_version": "Получить номер версии.",
-  "maqueen.Ultrasonic": "Значение с ультразвукового сенсора.",
-  "maqueen.ltEvent": "События с датчика следования линии.",
+  "maqueen.IR_callbackUser": "Событие с ИК датчика",
+  "maqueen.Ultrasonic": "Значение с ультразвукового датчика.",
+  "maqueen.ltEvent": "События с датчика следования по линии.",
   "maqueen.motorRun": "Установить направление и скорость мотора.",
   "maqueen.motorStop": "Остановить мотор.",
-  "maqueen.readPatrol": "Значение датчика следования линии.",
+  "maqueen.readPatrol": "Значение датчика следования по линии.",
   "maqueen.servoRun": "Запустить сервоприводы.",
-  "maqueen.writeLED": "Вкл/выкл лампочки.",
-  "maqueenIR.initIR": "Инициализация IR",
+  "maqueen.writeLED": "Вкл/выкл лампочки.",  
+  "maqueenIR.initIR": "Инициализация ИК",
   "maqueenIR.onPressEvent": "Событие на нажатие кнопок.",
   "maqueencb": "@file pxt-maqueen/maqueen.ts\n@brief DFRobot's maqueen makecode library.\n@n [Get the module here](https://www.dfrobot.com.cn/goods-1802.html)\n@n This is a MakeCode graphical programming education robot.\n* @copyright    [DFRobot](http://www.dfrobot.com), 2016\n@copyright    MIT Lesser General Public License\n* @author [email](jie.tang@dfrobot.com)\n@date  2019-10-08"
 }
